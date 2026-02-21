@@ -1,6 +1,6 @@
 # TuneIT
 
-<img src="./assets/outertune.webp" height="88" alt="TuneIT app icon">
+<img src="./assets/tuneit_logo.png" height="88" alt="TuneIT app icon">
 
 A premium Material 3 YouTube Music client & local music player for Android, reimagined by **Rohit Bagewadi**.
 
