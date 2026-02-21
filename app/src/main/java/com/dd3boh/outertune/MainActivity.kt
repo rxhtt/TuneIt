@@ -177,7 +177,7 @@ import com.dd3boh.outertune.ui.screens.settings.LyricsSettings
 import com.dd3boh.outertune.ui.screens.settings.PlayerSettings
 import com.dd3boh.outertune.ui.screens.settings.SettingsScreen
 import com.dd3boh.outertune.ui.screens.settings.StorageSettings
-import com.dd3boh.outertune.ui.theme.TuneItTheme
+import com.dd3boh.outertune.ui.theme.TuneITTheme
 import com.dd3boh.outertune.ui.utils.appBarScrollBehavior
 import com.dd3boh.outertune.utils.ActivityLauncherHelper
 import com.dd3boh.outertune.utils.NetworkConnectivityObserver
@@ -313,7 +313,7 @@ class MainActivity : ComponentActivity() {
             val isNetworkConnected by connectivityObserver.networkStatus.collectAsState(true)
 
 
-            TuneItTheme(
+            TuneITTheme(
                 context = this@MainActivity,
                 playerConnection = playerConnection,
                 enableDynamicTheme = enableDynamicTheme,

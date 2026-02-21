@@ -49,7 +49,7 @@ import kotlinx.coroutines.launch
 val DefaultThemeColor = Color(0xFF00E5FF)
 
 @Composable
-fun TuneItTheme(
+fun TuneITTheme(
     context: Context,
     playerConnection: PlayerConnection?,
     enableDynamicTheme: Boolean,
