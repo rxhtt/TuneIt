@@ -26,6 +26,12 @@ TuneIT is engineered for users who require sophisticated local media management 
 
 <img src="./assets/main-interface.jpg" alt="Main interface" width="250"/> <img src="./assets/ytm-sync.jpg" alt="YTM Sync" width="250"/> <img src="./assets/player.jpg" alt="Player interface" width="250"/>
 
+## Support the Project
+
+If you find TuneIT valuable and wish to support its continued development, you can contribute via the QR code below:
+
+<img src="./assets/sponsor_qr.jpg" alt="Support QR Code" width="200"/>
+
 ## Contact and Support
 
 For professional inquiries or collaboration requests, please utilize the following channels:
