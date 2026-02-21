@@ -7,6 +7,7 @@ A premium Material 3 YouTube Music client and local music player for Android, re
 [![Developer](https://img.shields.io/badge/Developer-rxhtt-blue)](https://github.com/rxhtt)
 [![Website](https://img.shields.io/badge/Website-Portfolio-teal)](https://portfolio-rohit-teal.vercel.app/)
 [![License](https://img.shields.io/github/license/rxhtt/TuneIt)](https://www.gnu.org/licenses/gpl-3.0)
+[![Download APK](https://img.shields.io/github/v/release/rxhtt/TuneIt?label=Download%20APK&logo=github&style=for-the-badge&color=blue)](https://github.com/rxhtt/TuneIt/releases)
 
 TuneIT is a high-performance music application designed to provide a seamless bridge between local media libraries and the YouTube Music ecosystem.
 
