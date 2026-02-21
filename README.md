@@ -14,13 +14,20 @@ TuneIT is a high-performance music application designed to provide a seamless br
 
 TuneIT is engineered for users who require sophisticated local media management alongside global streaming access, featuring a refined modern interface and a robust audio engine.
 
-- **Dual-Path Playback**: Seamless integration between local media files (MP3, OGG, FLAC) and YouTube Music.
-- **Sophisticated Metadata Processing**: Utilizes a custom TagLib implementation for precise parsing of local media tags.
-- **Advanced Dynamic Theming**: A professionally designed UI utilizing Material 3 with support for high-contrast accessibility modes.
-- **Optimized Experience**: Continuous background playback without advertisement interruptions.
-- **Synchronized Lyric Support**: Full compatibility with synchronized and LRC/TTML karaoke-style lyrics.
-- **High-Fidelity Audio Engine**: Support for audio normalization, variable playback speeds, and gapless transitions.
-- **Cross-Device Synchronization**: Secure account and library synchronization across platforms.
+- YouTube Music client features
+- Song downloading (offline playback)
+- Seamless playback: no ADs & background playback
+- Account synchronization
+- Full playlist sync from the app to the remote account is temporally unavailable
+- Local audio file playback (ex. MP3, OGG, FLAC, etc.)
+- Play local and Youtube Music songs at the same time
+- Uses a custom tag extractor instead of MediaStore's broken metadata extractor! (e.g tags delimited with \ now show up properly)
+- Sleek Material3 design
+- Multiple queues
+- Synchronized lyrics, and support for word by word/Karaoke lyrics formats (e.g LRC, TTML)
+- Audio normalization, tempo/pitch adjustment, and various other audio effects
+- Android Auto support
+- Support for Android 8 (Oreo) and higher
 
 ## Interface Showcase
 
